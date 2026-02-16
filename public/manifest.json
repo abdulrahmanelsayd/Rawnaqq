@@ -1,0 +1,15 @@
+{
+    "short_name": "Rawnaq",
+    "name": "Rawnaq - The Essence of Luxury",
+    "icons": [
+        {
+            "src": "img1_.jpg",
+            "type": "image/jpeg",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#F5F5F7"
+}
