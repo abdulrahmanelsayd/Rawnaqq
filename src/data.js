@@ -12,14 +12,14 @@ export const config = {
   },
   // Carousel Images
   carousel: [
-    '/img1_.jpg',
-    '/img2_.jpg',
-    '/img3_.jpg',
-    '/img4_.jpg',
-    '/img5_.jpg',
-    '/img6_.jpg',
-    '/img7_.jpg',
-    '/img8_.jpg'
+    '/بلودي شانيل.webp',
+    '/سوفاج.jpg',
+    '/بكرات روج.jpg',
+    '/ايربا بورا.jpg',
+    '/ايروس فيرزاتشي.webp',
+    '/انفكتس.jpg',
+    '/استرونجر ويذ يو.jpg',
+    '/خمره.jpg'
   ],
   products: [
     {
@@ -28,7 +28,7 @@ export const config = {
       description: "Bleu De Chanel - الحرية في أسمى معانيها.",
       price: "1400 جنية",
       size: "100 مل",
-      image: "/img1_.jpg"
+      image: "/بلودي شانيل.webp"
     },
     {
       id: 2,
@@ -36,7 +36,7 @@ export const config = {
       description: "Sauvage - نداء البرية وقوة الطبيعة.",
       price: "1400 جنية",
       size: "100 مل",
-      image: "/img2_.jpg"
+      image: "/سوفاج.jpg"
     },
     {
       id: 3,
@@ -44,7 +44,7 @@ export const config = {
       description: "Baccarat Rouge - سحر العنبر والزهور في تناغم فريد.",
       price: "1500 جنية",
       size: "100 مل",
-      image: "/img3_.jpg"
+      image: "/بكرات روج.jpg"
     },
     {
       id: 4,
@@ -52,7 +52,7 @@ export const config = {
       description: "Erba Pura - مزيج رائع من الفواكه المنعشة.",
       price: "1200 جنية",
       size: "100 مل",
-      image: "/img4_.jpg"
+      image: "/ايربا بورا.jpg"
     },
     {
       id: 5,
@@ -60,7 +60,7 @@ export const config = {
       description: "Versace Eros - عطر الحب والشغف والجمال.",
       price: "1200 جنية",
       size: "100 مل",
-      image: "/img5_.jpg"
+      image: "/ايروس فيرزاتشي.webp"
     },
     {
       id: 6,
@@ -68,7 +68,7 @@ export const config = {
       description: "Invictus - عطر القوة والانتصار للرجل العصري.",
       price: "1150 جنية",
       size: "100 مل",
-      image: "/img6_.jpg"
+      image: "/انفكتس.jpg"
     },
     {
       id: 7,
@@ -76,7 +76,7 @@ export const config = {
       description: "Stronger With You - جاذبية لا تقاوم وحضور قوي.",
       price: "1250 جنية",
       size: "100 مل",
-      image: "/img7_.jpg"
+      image: "/استرونجر ويذ يو.jpg"
     },
     {
       id: 8,
@@ -84,7 +84,7 @@ export const config = {
       description: "Silver Mountain - انتعاش الجبال والهواء النقي.",
       price: "1200 جنية",
       size: "100 مل",
-      image: "/img8_.jpg"
+      image: "/سلفر ماونتن.jpg"
     },
     {
       id: 9,
@@ -92,7 +92,7 @@ export const config = {
       description: "Acqua Di Gio - انتعاش البحر الأبيض المتوسط في زجاجة.",
       price: "1200 جنية",
       size: "100 مل",
-      image: "/img1_.jpg"
+      image: "/اكوا دي جو.jpg"
     },
     {
       id: 10,
@@ -100,7 +100,7 @@ export const config = {
       description: "Kirke - عطر ساحر يجسد الفخامة والأناقة.",
       price: "1200 جنية",
       size: "100 مل",
-      image: "/img2_.jpg"
+      image: "/كيركي.jpg"
     },
     {
       id: 11,
@@ -108,7 +108,7 @@ export const config = {
       description: "Khamrah - نفحات دافئة من التوابل والأخشاب الفاخرة.",
       price: "1200 جنية",
       size: "100 مل",
-      image: "/img3_.jpg"
+      image: "/خمره.jpg"
     },
     {
       id: 12,
@@ -116,7 +116,7 @@ export const config = {
       description: "Khamrah Coffee - مزيج فريد من عبق القهوة والتوابل الدافئة.",
       price: "1200 جنية",
       size: "100 مل",
-      image: "/img4_.jpg"
+      image: "/خمره قهوة.jpg"
     },
     {
       id: 13,
@@ -124,7 +124,7 @@ export const config = {
       description: "Lacoste White - بساطة وأناقة تناسب كل يوم.",
       price: "1100 جنية",
       size: "100 مل",
-      image: "/img5_.jpg"
+      image: "/لاكوست وايت.jpg"
     },
     {
       id: 14,
@@ -132,7 +132,7 @@ export const config = {
       description: "Silver Scent - تباين مذهل بين البرودة والدفء.",
       price: "1150 جنية",
       size: "100 مل",
-      image: "/img6_.jpg"
+      image: "/سلفر سنت.jpg"
     },
     {
       id: 15,
@@ -140,7 +140,7 @@ export const config = {
       description: "Sculpture - تحفة فنية منحوتة من الروائح العطرة.",
       price: "1100 جنية",
       size: "100 مل",
-      image: "/img7_.jpg"
+      image: "/اسكلبشر.jpg"
     },
     {
       id: 16,
@@ -148,7 +148,7 @@ export const config = {
       description: "Dunhill Desire - الرغبة والشغف في زجاجة عطر.",
       price: "1150 جنية",
       size: "100 مل",
-      image: "/img8_.jpg"
+      image: "/دانهل ديزاير.jpg"
     }
   ]
 };
