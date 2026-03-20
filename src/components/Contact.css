@@ -1,0 +1,46 @@
+.contact-footer {
+    background-color: var(--color-bg-product);
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+    border-top: 1px solid #222;
+}
+
+.contact-header {
+    margin-bottom: 0.5rem;
+}
+
+.contact-title {
+    color: var(--color-text-gold);
+    font-family: inherit;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 0;
+    letter-spacing: 0;
+}
+
+.contact-nav {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.contact-link {
+    color: #bbb;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.3s;
+    margin: 0 1rem;
+    outline: none;
+}
+
+.contact-link:hover,
+.contact-link:focus {
+    color: var(--color-text-gold);
+}
+
+.contact-copyright {
+    margin-top: 1rem;
+    color: #888;
+    font-size: 0.75rem;
+}

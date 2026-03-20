@@ -10,9 +10,7 @@ export const config = {
     instagram: "https://www.instagram.com/rawnaq.perfume26?igsh=MWpzcjhseG13Mm5jMw==",
     facebook: "https://www.facebook.com/share/1DnrSV4S3D/"
   },
-  // 3D Carousel Configuration
-  // 1. Put your images in the "public" folder
-  // 2. Add their names here
+  // Carousel Images
   carousel: [
     '/img1_.jpg',
     '/img2_.jpg',
